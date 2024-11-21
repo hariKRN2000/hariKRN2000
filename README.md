@@ -25,7 +25,8 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 
 ### 🧪 **Auxotrophic Strain Design**  
 - Developed MATLAB scripts for designing auxotrophic strains to enhance metabolite production under **Prof. Karthik Raman** at **IIT Madras**.  
-- Integrated computational modeling with metabolic engineering to optimize strain designs.  
+- Integrated computational modeling with metabolic engineering to optimize strain designs.
+- Developed parallel computing strategies for improving computational efficiency and used optimzation problem solvers such as gurobi to determine the optimal knowckouts
 
 ### 📊 **Process Simulation Labs**  
 - Developed Python and MATLAB codes as part of the undergraduate curriculum to simulate a variety of chemical engineering processes.  
