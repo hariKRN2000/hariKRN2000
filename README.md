@@ -1,16 +1,16 @@
 # Harikrishnan R Namboothiri 🌟
 
-**Masters in Chemical Engineering | Process Modeling Expert | Synthetic Biology Enthusiast**
+**MS Student in Chemical Engineering | Process Modeling Expert | Synthetic Biology Enthusiast**
 
-Welcome to my GitHub profile! I am a Master’s student in **Chemical Engineering** at **Texas A&M University**, with a strong foundation in process modeling, bioinformatics, and synthetic biology. My expertise lies in integrating engineering principles with computational tools to optimize processes and innovate in biotechnology and chemical systems.
+Welcome to my GitHub profile! I am a Master of Science student in **Chemical Engineering** at **Texas A&M University**, with a strong foundation in process modeling, bioinformatics, and synthetic biology. My expertise lies in integrating engineering principles with computational tools to optimize processes and innovate in biotechnology and chemical systems.
 
 ---
 
 ## 🔬 Research Interests
 
 - **Process Modeling**: Developing and optimizing computational models for chemical and biological systems.
-- **Synthetic Biology**: Engineering genetic circuits for innovative biological applications.
 - **Metabolic Engineering**: Enhancing microbial pathways for efficient metabolite production.
+- **Synthetic Biology**: Engineering genetic circuits for innovative biological applications.
 - **Data Science**: Leveraging machine learning and data analytics to solve engineering challenges.
 
 ---
@@ -28,8 +28,10 @@ Welcome to my GitHub profile! I am a Master’s student in **Chemical Engineerin
 - Integrated computational modeling with metabolic engineering to optimize strain designs.  
 
 ### 📊 **Process Simulation Labs**  
-- Authored Python codes for **Process Simulation Lab I and II**, focusing on process optimization and Object-Oriented Programming to assist Chemical Engineering students.  
-- Delivered tools for analyzing vapor-liquid equilibrium and improving process efficiency, showcasing process modeling expertise.  
+- Developed Python and MATLAB codes as part of the undergraduate curriculum to simulate a variety of chemical engineering processes.  
+- Designed custom workflows and toolboxes, driven by a strong interest in modeling and coding, using Object-Oriented Programming (OOP) principles to create detailed, modular codes for unit operations.  
+- Structured the code to enable seamless integration of unit operations, fostering a scalable and reusable framework.  
+- This experience deepened my passion for computational modeling and tool development, laying the foundation for advanced process simulation expertise.  
 
 ### 🌱 **iGEM 2022**  
 - Developed machine learning models to predict translation efficiency from 5'-UTR sequences, enabling the identification of optimal designs for enhanced gene expression.  
