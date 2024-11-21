@@ -17,23 +17,23 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 
 ## 🚀 Notable Projects
 
-### 🧬 [Dynamic Modeling of Gene Expression Across Growth Phases (GEAGS)](https://github.com/hariKRN2000/GEAGS)  
+### 🧬 [Dynamic Modeling of Gene Expression Across Growth Phases (GEAGS)](https://github.com/hariKRN2000/GEAGS](https://github.com/hariKRN2000/GEAGS-Files)) 
 - Designed and optimized a multi-scale model of gene expression dynamics across bacterial growth phases, addressing challenges in batch cultures.  
 - Applied sensitivity analysis, parameter estimation, and model reduction techniques for accurate simulation.  
 - Contributed to the BioCRNpyler toolbox with new features.  
 *📂 Repository: Private (manuscript under preparation)*
 
-### 🧪 [Auxotrophic Strain Design](https://github.com/hariKRN2000/Auxotroph-Design)  
+### 🧪 [Auxotrophic Strain Design](https://github.com/hariKRN2000/Auxotroph-Design](https://github.com/hariKRN2000/Synth_Auxotroph_design) 
 - Developed MATLAB scripts for designing auxotrophic strains to enhance metabolite production under **Prof. Karthik Raman** at **IIT Madras**.  
 - Integrated computational modeling with metabolic engineering to optimize strain designs.  
 - Developed parallel computing strategies for improving computational efficiency and used optimization problem solvers such as Gurobi to determine the optimal knockouts.
 
-### 📊 [Process Simulation Codes](https://github.com/hariKRN2000/Process-Simulation-Lab)  
+### 📊 [Process Simulation Codes](https://github.com/hariKRN2000/Process-Simulation-2-Codes)  
 - Developed Python and MATLAB codes as part of the undergraduate curriculum to simulate a variety of chemical engineering processes.  
 - Designed custom workflows and toolboxes, driven by a strong interest in modeling and coding, using Object-Oriented Programming (OOP) principles to create detailed, modular codes for unit operations.  
 - Structured the code to enable seamless integration of unit operations, fostering a scalable and reusable framework.  
 - This experience deepened my passion for computational modeling and tool development, laying the foundation for advanced process simulation expertise.  
-- Developed a vapor-liquid equilibria analysis tool to design distillation columns and integrated cooling towers, starting from importing data from publicly available databases.
+- Developed a [vapor-liquid equilibria analysis tool](https://github.com/hariKRN2000/Vapour_Liquid_Equilibria_data_analysis) to design distillation columns and integrated cooling towers, starting from importing data from publicly available databases.
 
 ### 🌱 [iGEM 2022](https://github.com/hariKRN2000/iGEM-2022)  
 - Developed an Artificial Neural Network model to predict translation efficiency from 5'-UTR sequences, enabling the identification of optimal designs for enhanced gene expression.  
