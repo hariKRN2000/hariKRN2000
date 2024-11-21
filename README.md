@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 - This experience deepened my passion for computational modeling and tool development, laying the foundation for advanced process simulation expertise.  
 - Developed a [vapor-liquid equilibria analysis tool](https://github.com/hariKRN2000/Vapour_Liquid_Equilibria_data_analysis) to design distillation columns and integrated cooling towers, starting from importing data from publicly available databases.
 
-### 🌱 [iGEM 2022](https://github.com/hariKRN2000/iGEM-2022)  
-- Developed an Artificial Neural Network model to predict translation efficiency from 5'-UTR sequences, enabling the identification of optimal designs for enhanced gene expression.  
+### 🌱 [iGEM 2022](https://github.com/hariKRN2000/iGEM2022))  
+- Developed an [Artificial Neural Network model to predict translation efficiency from 5'-UTR sequences](https://2022.igem.wiki/ict-mumbai/model), enabling the identification of optimal designs for enhanced gene expression.  
 - Contributed to the team winning a **Silver Medal** at iGEM 2022 in Paris.  
 
 ---
