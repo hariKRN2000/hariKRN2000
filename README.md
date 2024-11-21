@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 - Developed a vapour liquid equilibria analysis tool to design distillation columns and integrated cooling towers starting from importing data from publicly available databases.
 
 ### 🌱 **iGEM 2022**  
-- Developed machine learning models to predict translation efficiency from 5'-UTR sequences, enabling the identification of optimal designs for enhanced gene expression.  
+- Developed an Artificial Neural Network model to predict translation efficiency from 5'-UTR sequences, enabling the identification of optimal designs for enhanced gene expression.  
 - Contributed to the team winning a **Silver Medal** at iGEM 2022 in Paris.  
 
 ---
