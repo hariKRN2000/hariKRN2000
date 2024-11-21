@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 ### 🧬 [Dynamic Modeling of Gene Expression Across Growth Phases (GEAGS)](https://github.com/hariKRN2000/GEAGS](https://github.com/hariKRN2000/GEAGS-Files)) 
 - Designed and optimized a multi-scale model of gene expression dynamics across bacterial growth phases, addressing challenges in batch cultures.  
 - Applied sensitivity analysis, parameter estimation, and model reduction techniques for accurate simulation.  
-- Contributed to the BioCRNpyler toolbox with new features.  
+- Contributed to the [BioCRNpyler toolbox](https://github.com/BuildACell/bioCRNpyler) with new features.  
 *📂 Repository: Private (manuscript under preparation)*
 
 ### 🧪 [Computational Strain Design](https://github.com/hariKRN2000/Synth_Auxotroph_design) 
