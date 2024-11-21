@@ -1,6 +1,6 @@
 # Harikrishnan R Namboothiri 🌟
 
-**Master’s Student in Chemical Engineering | Process Modeling Expert | Synthetic Biology Enthusiast**
+**Masters in Chemical Engineering | Process Modeling Expert | Synthetic Biology Enthusiast**
 
 Welcome to my GitHub profile! I am a Master’s student in **Chemical Engineering** at **Texas A&M University**, with a strong foundation in process modeling, bioinformatics, and synthetic biology. My expertise lies in integrating engineering principles with computational tools to optimize processes and innovate in biotechnology and chemical systems.
 
