@@ -32,7 +32,8 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 - Developed Python and MATLAB codes as part of the undergraduate curriculum to simulate a variety of chemical engineering processes.  
 - Designed custom workflows and toolboxes, driven by a strong interest in modeling and coding, using Object-Oriented Programming (OOP) principles to create detailed, modular codes for unit operations.  
 - Structured the code to enable seamless integration of unit operations, fostering a scalable and reusable framework.  
-- This experience deepened my passion for computational modeling and tool development, laying the foundation for advanced process simulation expertise.  
+- This experience deepened my passion for computational modeling and tool development, laying the foundation for advanced process simulation expertise.
+- Developed a vapour liquid equilibria analysis tool to design distillation columns and integrated cooling towers starting from importing data from publicly available databases.
 
 ### 🌱 **iGEM 2022**  
 - Developed machine learning models to predict translation efficiency from 5'-UTR sequences, enabling the identification of optimal designs for enhanced gene expression.  
