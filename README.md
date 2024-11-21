@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 - Contributed to the BioCRNpyler toolbox with new features.  
 *📂 Repository: Private (manuscript under preparation)*
 
-### 🧪 [Auxotrophic Strain Design](https://github.com/hariKRN2000/Synth_Auxotroph_design) 
+### 🧪 [Computational Strain Design](https://github.com/hariKRN2000/Synth_Auxotroph_design) 
 - Developed MATLAB scripts for designing auxotrophic strains to enhance metabolite production under **Prof. Karthik Raman** at **IIT Madras**.  
 - Integrated computational modeling with metabolic engineering to optimize strain designs.  
 - Developed parallel computing strategies for improving computational efficiency and used optimization problem solvers such as Gurobi to determine the optimal knockouts.
