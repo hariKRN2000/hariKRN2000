@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I am a Master’s student in **Chemical Engineerin
 ## 🔬 Research Interests
 
 - **Process Modeling**: Developing and optimizing computational models for chemical and biological systems.
-- **Metabolic Engineering**: Enhancing microbial pathways for efficient metabolite production.
 - **Synthetic Biology**: Engineering genetic circuits for innovative biological applications.
+- **Metabolic Engineering**: Enhancing microbial pathways for efficient metabolite production.
 - **Data Science**: Leveraging machine learning and data analytics to solve engineering challenges.
 
 ---
