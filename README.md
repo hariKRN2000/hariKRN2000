@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 - Used [Genome-Scale Models](http://bigg.ucsd.edu/models) and [constrained-based analysis toolbox in MATLAB (COBRA)](https://opencobra.github.io/cobratoolbox/stable/index.html) to evaluate optimal knockouts and design communities.
 - Developed parallel computing strategies for improving computational efficiency and used optimization problem solvers such as Gurobi to determine the optimal knockouts.
 
-### 🌱 [iGEM 2022](https://github.com/hariKRN2000/iGEM2022))  
+### 🌱 [iGEM 2022](https://github.com/hariKRN2000/iGEM2022)
 - Developed an [Artificial Neural Network model to predict translation efficiency from 5'-UTR sequences](https://2022.igem.wiki/ict-mumbai/model), enabling the identification of optimal designs for enhanced gene expression.  
 - Contributed to the team winning a **Silver Medal** at iGEM 2022 in Paris.  
 
