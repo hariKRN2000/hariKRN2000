@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 *📂 Repository: Private (manuscript under preparation)*
 
 ### 📊 [Process Simulation Codes](https://github.com/hariKRN2000/Process-Simulation-2-Codes)  
-- Developed Python and MATLAB codes as part of the undergraduate curriculum to simulate a variety of chemical engineering processes.  
+- Developed Python and MATLAB codes during my undergraduate to simulate a variety of chemical engineering processes.  
 - Designed custom workflows and toolboxes, driven by a strong interest in modeling and coding, using Object-Oriented Programming (OOP) principles to create detailed, modular codes for unit operations.  
 - Structured the code to enable seamless integration of unit operations, fostering a scalable and reusable framework.  
 - This experience deepened my passion for computational modeling and tool development, laying the foundation for advanced process simulation expertise.  
