@@ -17,11 +17,10 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 
 ## 🚀 Notable Projects
 
-### 🧬 [Dynamic Modeling of Gene Expression Across Growth Phases (GEAGS)](https://github.com/hariKRN2000/GEAGS](https://github.com/hariKRN2000/GEAGS-Files)) 
+### 🧬 [Dynamic Modeling of Gene Expression Across Growth Phases (GEAGS)](https://github.com/hariKRN2000/Gene-Expression-Across-Growth-Stages)) 
 - Designed and optimized a multi-scale model of gene expression dynamics across bacterial growth phases, addressing challenges in batch cultures.  
 - Applied sensitivity analysis, parameter estimation, and model reduction techniques for accurate simulation.  
 - Contributed to the [BioCRNpyler toolbox](https://github.com/BuildACell/bioCRNpyler) with new features.  
-*📂 Repository: Private (manuscript under preparation)*
 
 ### 📊 [Process Simulation Codes](https://github.com/hariKRN2000/Process-Simulation-2-Codes)  
 - Developed Python and MATLAB codes during my undergraduate to simulate a variety of chemical engineering processes.  
