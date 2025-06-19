@@ -44,9 +44,9 @@ Welcome to my GitHub profile! I am a Master of Science student in **Chemical Eng
 ## 🛠️ Skills
 
 - **Programming Languages**: Python, MATLAB, C, Arduino  
-- **Process Simulation Tools**: GitHub, VS Code, OOP  
-- **Synthetic Biology Tools**: SnapGene, Benchling, Ape  
-- **Experimental Techniques**: Molecular Cloning, Fluorescence Assays, SDS-PAGE, ELISA, Bacterial Strain Engineering  
+- **Simulation Tools/Platforms**: GitHub, VS Code, OOP  
+- **Wet Lab Tools**: Benchling, Ape, SnapGene
+- **Experimental Techniques**: Molecular Cloning, Fluorescence Assays, SDS-PAGE, Bacterial Strain Engineering, Lab Automation  
 
 ---
 
