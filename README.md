@@ -2,7 +2,7 @@
 
 **Ph.D. Student in Chemical Engineering | Process Modeling | Synthetic Biology Enthusiast**
 
-Welcome to my GitHub profile! I am a Ph.D. student in **Chemical Engineering** at **Texas A&M University**, with a foundation in process modeling, systems and synthetic biology. My expertise lies in integrating engineering principles with computational tools to optimize processes and innovate in biotechnology and chemical systems.
+Welcome to my GitHub profile! I am a Ph.D. student in **Chemical Engineering** at **Texas A&M University**, with interests in systems and synthetic biology, feedback control, and chemical process modeling. 
 
 ---
 
