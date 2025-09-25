@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I am a Ph.D. student in **Chemical Engineering** a
 - Designed and optimized a multi-scale model of gene expression dynamics across bacterial growth phases, addressing challenges in batch cultures.  
 - Applied sensitivity analysis, parameter estimation, and model reduction techniques for accurate simulation.  
 - Contributed to the [BioCRNpyler toolbox](https://github.com/BuildACell/bioCRNpyler) with new features.
-- Link to the preprint - [open me!](https://www.biorxiv.org/content/10.1101/2025.07.09.663992v1)
+- Link to the preprint - [open me!](https://www.biorxiv.org/content/10.1101/2025.07.09.663992v1) 
 
 ### 📊 [Process Simulation Codes](https://github.com/hariKRN2000/Process-Simulation-2-Codes)  
 - Developed Python and MATLAB codes during my undergraduate to simulate a variety of chemical engineering processes.  
