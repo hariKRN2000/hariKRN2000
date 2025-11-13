@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a Ph.D. student in **Chemical Engineering** a
 
 ### 💻 ➡️ 🦠 ➡️ 💻 [Closed-loop Optogenetic Control in a Microplate Reader (LEMOS)](https://github.com/hariKRN2000/LEMOS-models-and-data) 
 - Built and optimized a growth-aware model of gene expression dynamics to guide the feedback control design of an optogenetic system.
-- Designed and executed model-guided experiments to execute feedback control of gene expression
+- Designed and executed model-guided experiments to execute feedback control of gene expression.
 - This repository contains Python scripts for simulating closed-loop control strategies and implementing a growth-aware model to investigate the system dynamics underlying unexpected behavior in P-control regulation.
 - You can read more about the project in our preprint - [open me!](https://www.biorxiv.org/content/10.1101/2025.09.22.677797v1) 
 
