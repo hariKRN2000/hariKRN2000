@@ -1,5 +1,3 @@
-# Hari R. Namboothiri
-
 ![From models to experiments](assets/profile-banner.svg)
 
 **Chemical Engineering Ph.D. Candidate · Texas A&M University**  
