@@ -7,7 +7,13 @@ I build dynamic models to understand how biological systems respond to changing 
 
 **Open to industry roles** in biotechnology, pharmaceuticals, medical technology, and process engineering. Expected graduation: August 2027.
 
-[Areas of expertise](#areas-of-expertise) · [Featured projects](#featured-projects) · [Industry experience](#industry-experience) · [LinkedIn](https://www.linkedin.com/in/harik2000/) · [Email](mailto:harikrishnan@tamu.edu)
+**[Areas of expertise](#areas-of-expertise)** · **[Featured projects](#featured-projects)** · **[Industry experience](#industry-experience)** · **[LinkedIn](https://www.linkedin.com/in/harik2000/)** · **[Email](mailto:harikrishnan@tamu.edu)**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" alt="" width="26" valign="middle"> <strong>Python</strong>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/matlab/matlab-original.svg" alt="" width="26" valign="middle"> <strong>MATLAB</strong>
+</p>
 
 ---
 
@@ -21,29 +27,29 @@ I build dynamic models to understand how biological systems respond to changing 
 
 ## Featured projects
 
-### 01 · Growth-Coupled Modeling of Gene Expression (GEAGS)
+### 01 · 📈 Growth-Coupled Modeling of Gene Expression (GEAGS)
 
 Built a multiscale model that reproduced transient oscillations and an approximately tenfold decline in reporter expression in bacterial batch culture. Used sensitivity and phase-portrait analyses to identify drivers of the oscillations, developed a six-state reduced model, and contributed reusable modeling routines to [BioCRNpyler](https://github.com/BuildACell/bioCRNpyler).
 
-[Code and data](https://github.com/hariKRN2000/Gene-Expression-Across-Growth-Stages) · [Science Advances article](https://doi.org/10.1126/sciadv.adz2310)
+**[Code and data](https://github.com/hariKRN2000/Gene-Expression-Across-Growth-Stages)** · **[Science Advances article ↗](https://doi.org/10.1126/sciadv.adz2310)**
 
-### 02 · Closed-Loop Optogenetic Control (LEMOS)
+### 02 · 💡 Closed-Loop Optogenetic Control (LEMOS)
 
 Co-developed a platform that uses light to control gene expression in *E. coli* inside a standard microplate reader. Re-engineered the illumination device and automated control of 16 wells. Model-guided controller design eliminated approximately 25% setpoint overshoot and made the response approximately three times faster.
 
-[Code and data](https://github.com/hariKRN2000/LEMOS-models-and-data) · [ACS Synthetic Biology article](https://doi.org/10.1021/acssynbio.6c00003)
+**[Code and data](https://github.com/hariKRN2000/LEMOS-models-and-data)** · **[ACS Synthetic Biology article ↗](https://doi.org/10.1021/acssynbio.6c00003)**
 
-### 02 · Growth-Aware Disturbance Rejection
+### 02 · 🎛️ Growth-Aware Disturbance Rejection
 
-Used frequency-response analysis to study how changes in cell growth propagate to gene expression. Compared fixed-gain, gain-scheduled, and feedforward control strategies using perturbation simulations and Monte Carlo robustness analysis.
+Used frequency-response analysis to study how changes in cell growth propagate to gene expression. Compared fixed-gain controllers, adaptive gain scaling, and feedforward control using perturbation simulations and Monte Carlo robustness analysis.
 
-[Python code and Jupyter notebooks](https://github.com/hariKRN2000/Growth-Aware-Disturbance-Rejection-Controllers-LEMOS) · [bioRxiv preprint](https://doi.org/10.64898/2026.04.04.716495)
+**[Python code and Jupyter notebooks](https://github.com/hariKRN2000/Growth-Aware-Disturbance-Rejection-Controllers-LEMOS)** · **[bioRxiv preprint ↗](https://doi.org/10.64898/2026.04.04.716495)**
 
-### 03 · Model-Guided CRISPR Kill-Switch Design
+### 03 · 🧬 Model-Guided CRISPR Kill-Switch Design
 
 Built Python tools to screen circuit architectures and guide RNA candidates for a living bacterial therapeutic platform. Designed, assembled, and validated 30+ plasmid constructs across the project. The resulting kill-switch prototype achieved over 99% killing in vitro.
 
-[bioRxiv preprint and Supplementary Information](https://www.biorxiv.org/content/10.64898/2026.10.18.759933v1) · **Repository link pending release approval**
+**[bioRxiv preprint and Supplementary Information ↗](https://www.biorxiv.org/content/10.64898/2026.10.18.759933v1)** · **Repository link pending release approval**
 
 <details>
 <summary><strong>More projects</strong></summary>
@@ -63,4 +69,4 @@ Built Python tools to screen circuit architectures and guide RNA candidates for 
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/harik2000/) · [Email](mailto:harikrishnan@tamu.edu)
+**[LinkedIn](https://www.linkedin.com/in/harik2000/)** · **[Email](mailto:harikrishnan@tamu.edu)**
